@@ -18,7 +18,7 @@ const alumno2 = {
 }
 const alumno3 = {
     nombre: "maria",
-    apellido: "gonzalez",
+    apellido: "messi",
     dni: 46223344,
     anio: 4,
     curso: "B",
